@@ -46,16 +46,6 @@ Once the server is running, you can visit the following pages:
 - **Contact Page**: `http://localhost:8080/contact-me`
 - **404 Page**: Any invalid route (e.g., `http://localhost:8080/invalid`) will return the `404.html` page.
 
-## Folder Structure
-
-├── pages/ 
-  ├── index.html 
-  ├── about.html 
-  ├── contact-me.html
-  └── 404.html
-├── index.js 
-├── README.md
-
 ## Acknowledgements
 
 This project was built as part of a learning exercise with Node.js.
